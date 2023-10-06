@@ -2,8 +2,11 @@
 
 ## 😄 About Me :
   Хочу:
+  
 ⚡ создававать удобные интерфейсы
+
 👨‍💻 писать понятный код
+
 📜 развиваться каждый день!
 
 ## 📂 Крайние проекты:
@@ -36,13 +39,13 @@
 ## 📞 Контакты :
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="25" height="25"/> [Telegram](https://t.me/Dereguzov)
+  
   <img src="https://icons.iconarchive.com/icons/hamzasaleem/stock/512/Mail-icon.png" width="25" height="25"/> DereguzoYE@yandex.ru
 
 ## &#x1f4c8; Статистика:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiDereguzov&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=YuriiDereguzov&theme=dark)](https://git.io/streak-stats)
-
 
 <!--
 **YuriiDereguzov/YuriiDereguzov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
