@@ -25,6 +25,10 @@
 - Спринт 15 - [Mesto Fullstack](https://github.com/YuriiDereguzov/react-mesto-api-full-gha) (Mesto fullstack)
 - Спринт 16 - [Дипломная работа](https://github.com/YuriiDereguzov/movies-explorer-frontend) (Movies explorer)
 
+### 📂 Другие проекты:
+
+- [ToDo](https://github.com/YuriiDereguzov/todo-app) - список дел, небольшой проект созданный для применения на практике знаний Redux Toolkit и SCSS. Deploy - [todo](https://yuriidereguzov.github.io/todo-app)
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
