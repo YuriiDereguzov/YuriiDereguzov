@@ -1,7 +1,7 @@
-#  Hi there 👋
+#  Привет! 👋
 
-## 😄 About Me :
-🎯 Стремлюсь к работе с настоящими боевыми проектами
+## 😄 Обо мне :
+🎯 В поиске работы!
 
   Хочу:
 
@@ -15,6 +15,8 @@
 
 ## 📂 Крайние проекты:
 
+- [ToDo](https://github.com/YuriiDereguzov/todo-app) - список дел, небольшой проект созданный для применения на практике знаний Redux Toolkit и SCSS. Deploy - [todo](https://yuriidereguzov.github.io/todo-app)
+
 ### ✅ Проекты по курсу web-разработчик Яндекс.Практикум:
 
 - Спринт 1-2 - [How to learn](https://github.com/YuriiDereguzov/how-to-learn)
@@ -25,11 +27,7 @@
 - Спринт 15 - [Mesto Fullstack](https://github.com/YuriiDereguzov/react-mesto-api-full-gha) (Mesto fullstack)
 - Спринт 16 - [Дипломная работа](https://github.com/YuriiDereguzov/movies-explorer-frontend) (Movies explorer)
 
-### 📂 Другие проекты:
-
-- [ToDo](https://github.com/YuriiDereguzov/todo-app) - список дел, небольшой проект созданный для применения на практике знаний Redux Toolkit и SCSS. Deploy - [todo](https://yuriidereguzov.github.io/todo-app)
-
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Стек :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
